@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+----------------------
+AAPL: Quantity=3, Price=$180, Investment=$540
+TSLA: Quantity=6, Price=$250, Investment=$1500
+AMZN: Quantity=4, Price=$190, Investment=$760
+
+Total Investment Value: $2800
